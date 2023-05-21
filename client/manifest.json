@@ -1,0 +1,15 @@
+{
+    "name": "Dictionary",
+    "description": "Search meaning of the word",
+    "version": "1.0",
+    "manifest_version": 3,
+    "icons": {
+        "16": "dictionary.png",
+        "32": "dictionary.png",
+        "48": "dictionary.png",
+        "128": "dictionary.png"
+      },
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
